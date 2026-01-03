@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Yupoo Images Downloader",
+  "name": "Images Downloader For Yupoo",
   "version": "1.5",
   "description": "Download Yupoo images with original quality.",
   "permissions": ["activeTab", "scripting", "downloads", "declarativeNetRequest", "tabs"],
