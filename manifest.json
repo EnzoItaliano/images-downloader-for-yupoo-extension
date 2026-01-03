@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Yupoo Images Downloader",
+  "version": "1.5",
+  "description": "Download Yupoo images with original quality.",
+  "permissions": ["activeTab", "scripting", "downloads", "declarativeNetRequest", "tabs"],
+  "host_permissions": [
+    "https://*.yupoo.com/*",
+    "https://photo.yupoo.com/*"
+  ],
+  "action": { "default_popup": "popup.html" }
+}
